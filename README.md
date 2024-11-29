@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm AMAN DHAMI</h1>
+<h1 align="center">Hi 👋
+ I'm AMAN DHAMI</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 - 🌱 I’m currently learning **Better use of AI**
